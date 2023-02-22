@@ -7,7 +7,9 @@ This project is for the University of Michigan's Master of Applied Data Science 
 - Yifei Dong
 
 # Description
-The COVID-19 pandemic has impacted much of the global supply chain. In particular, we wish to investigate its impact on the US’s agricultural truck transportation supply chain and the price/volume of certain agricultural products. For example, we want to investigate the correlation between COVID-19 cases, truck volume, and agricultural product pricing in the state of California.
+The trucking industry remains one of the most important means of transportation of goods in the US. This is especially the case with perishable items, which require quick and efficient transportation. The Agricultural Marketing Service of the USDA regularly issues reports to provide a consistent overview of the state of the agricultural market. One particular report tracks the daily refrigerated truck volume of fruits and vegetables from US domestic origins. Most movements are reported, but not all commodities nor origins are included. 
+
+Food and product prices have been constantly increasing ever since COVID-19 hit the US in early 2020. Holding the hypothesis that the COVID-19 pandemic has impacted much of the food supply chain, thus increasing food prices, we want to conduct a study that can prove the relation between these three factors: COVID-19 cases, refrigerated truck volume, and refrigerated product prices.
 
 # Datasets
 | **Name** | **Description** | **Main Variables** | **Details** | **Access** |
