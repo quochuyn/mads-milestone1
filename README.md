@@ -1,5 +1,5 @@
 # mads-milestone1
-This project is for the University of Michigan's Master of Applied Data Science (MADS) Milestone I (SIADS 593) course for the 2023 Winter semester.
+This project is for the University of Michigan's Master of Data Science (MADS) Milestone I for the 2023 Winter semester.
 
 # project author
 
