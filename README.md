@@ -1,10 +1,10 @@
 # mads-milestone1
 This project is for the University of Michigan's Master of Data Science (MADS) Milestone I for the 2023 Winter semester.
 
-# project author
-
+# Team Members
+- Quoc-Huy Nguyen
 - Ning Xu
-
+- Yifei Dong
 
 # Description
 The trucking industry remains one of the most important means of transportation of goods in the US. This is especially the case with perishable items, which require quick and efficient transportation. The Agricultural Marketing Service of the USDA regularly issues reports to provide a consistent overview of the state of the agricultural market. One particular report tracks the daily refrigerated truck volume of fruits and vegetables from US domestic origins. Most movements are reported, but not all commodities nor origins are included. 
